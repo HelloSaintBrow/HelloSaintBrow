@@ -15,4 +15,6 @@ I’m an aspiring full-stack developer diving into the world of machine learning
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<br>
 sourced template: [forrestknight](https://github.com/forrestknight) 
+<br/>
