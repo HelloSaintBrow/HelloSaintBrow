@@ -21,9 +21,4 @@ I am a dedicated educator with a strong focus on leveraging machine learning to 
 
 
 
----
-
-
-
-template: [forrestknight](https://github.com/forrestknight) 
 
