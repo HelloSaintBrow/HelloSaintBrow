@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+<br><img align="right" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /><br/>
 
----
+
 
 # 🧚🏽‍♀️ Leslie Bland 
 
