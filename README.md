@@ -1,4 +1,8 @@
-# 🧚🏽‍♀️ Leslie Bland
+<img align="right" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+
+---
+
+# 🧚🏽‍♀️ Leslie Bland 
 
 **`Digital Craftswoman (Developer/Educator/Creator)`**
 
