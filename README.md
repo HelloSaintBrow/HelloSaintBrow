@@ -2,6 +2,9 @@
 
 **`Digital Craftswoman (Developer/Educator/Creator)`**
 
+
+
+
 <img align="left" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
 
 I am a dedicated educator with a strong focus on leveraging machine learning to enhance educational outcomes and foster meaningful digital connections. I am committed to developing innovative, data-driven programs that support diverse learners. Through targeted initiatives and collaborative projects, I strive to equip individuals with the skills and knowledge necessary to thrive in an increasingly digital landscape, ensuring that all voices are heard and valued in the learning process.
@@ -17,6 +20,16 @@ I am a dedicated educator with a strong focus on leveraging machine learning to 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+---
 
+<!-- Social icons section -->
 
+### 🔗 Let's Link
+
+<p align="left">
+ 
+  <a href="https://www.linkedin.com/in/leslie-bland/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <p/>
+  
 
