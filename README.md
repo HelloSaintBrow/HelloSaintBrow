@@ -20,7 +20,7 @@ I am a dedicated educator with a strong focus on leveraging machine learning to 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
+#
 
 <!-- Social icons section -->
 
