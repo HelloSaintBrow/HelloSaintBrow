@@ -1,12 +1,12 @@
-<br><img align="right" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /><br/>
-
-
-
 # 🧚🏽‍♀️ Leslie Bland 
 
 **`Digital Craftswoman (Developer/Educator/Creator)`**
 
+<img align="left" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
+
 I am a dedicated educator with a strong focus on leveraging machine learning to enhance educational outcomes and foster meaningful digital connections. I am committed to developing innovative, data-driven programs that support diverse learners. Through targeted initiatives and collaborative projects, I strive to equip individuals with the skills and knowledge necessary to thrive in an increasingly digital landscape, ensuring that all voices are heard and valued in the learning process.
+
+
 
 ---
 
