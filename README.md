@@ -1,13 +1,12 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello ! I'm Leslie Bland ~ 
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello, World ! I'm Leslie Bland 
 
 **`Digital Craftswoman (Developer/Educator/Creator)`**
 
 
 
+---
 
-<img align="left" alt="GIF" height="100px" width="80px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
-
-I am a dedicated educator with a strong focus on leveraging machine learning to enhance educational outcomes and foster meaningful digital connections. I am committed to developing innovative, data-driven programs that support diverse learners. Through targeted initiatives and collaborative projects, I strive to equip individuals with the skills and knowledge necessary to thrive in an increasingly digital landscape, ensuring that all voices are heard and valued in the learning process.
+As an educator, I am passionate about transforming learning through machine learning and digital connectivity. With a solid background in curriculum development, I emphasize inclusive practices that enhance educational outcomes for diverse learners. I firmly believe in the power of equity and empowerment, ensuring that every voice is heard and valued in our digital landscape. I’m excited to connect and explore how we can make a positive impact together!
 
 ---
 
@@ -22,7 +21,7 @@ I am a dedicated educator with a strong focus on leveraging machine learning to 
 
 #
 
-<!-- Social icons section -->
+
 
 ### 🔗 Let's Link
 
