@@ -6,7 +6,8 @@
 
 ---
 
-I am dedicated to transforming education through the power of machine learning and digital connectivity. With a strong background in curriculum development, I prioritize inclusive practices that improve outcomes for diverse learners. I believe in fostering equity and empowerment, ensuring every voice is heard and valued in our digital landscape. I look forward to connecting and exploring how we can make a positive impact together!
+
+I am dedicated to revolutionizing access to foundational education through the power of machine learning and digital connectivity. I believe in fostering equity and empowerment by offering impactful, differentiated instruction tailored to each individual’s needs, leveraging AI and community stakeholders to create a solid foundation for success. Let’s connect and explore how we can drive transformative change together!
 
 ---
 
