@@ -6,7 +6,7 @@
 
 ---
 
-As an educator, I am passionate about transforming learning through machine learning and digital connectivity. With a solid background in curriculum development, I emphasize inclusive practices that enhance educational outcomes for diverse learners. I firmly believe in the power of equity and empowerment, ensuring that every voice is heard and valued in our digital landscape. I’m excited to connect and explore how we can make a positive impact together!
+I am dedicated to transforming education through the power of machine learning and digital connectivity. With a strong background in curriculum development, I prioritize inclusive practices that improve outcomes for diverse learners. I believe in fostering equity and empowerment, ensuring every voice is heard and valued in our digital landscape. I look forward to connecting and exploring how we can make a positive impact together!
 
 ---
 
