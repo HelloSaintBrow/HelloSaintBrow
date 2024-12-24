@@ -7,7 +7,7 @@
 ---
 
 
-Currently learning how to utilize HTML, CSS, Javascript, Python and machine learning.
+Currently learning how to build with HTML, CSS, Javascript, Python and LLM.
 
 ---
 
